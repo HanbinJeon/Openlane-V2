@@ -1,4 +1,4 @@
-# Openlane-V2
+# OpenLane-V2
 
 This repository contains code and links for the Openlane-V2 dataset.
 
